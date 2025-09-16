@@ -1750,10 +1750,6 @@ label {
 
 @media screen and (min-width: 400px) and (max-width: 600px) {
 
- .subscribe-form .mail {
-   
-   border-radius: 5px 0 0 5px;
- }
 
  .subscribe-form .submit-button {
    padding: 0 5px 0 5px;
